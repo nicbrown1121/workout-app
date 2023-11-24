@@ -1,0 +1,38 @@
+export const exercises = {
+  legs: [
+    { name: "Squat", equipment: "bodyweight", description: "..." },
+    { name: "Dumbbell Squat", equipment: "dumbbell", description: "..." },
+    { name: "Barbell Squat", equipment: "barbell", description: "..." },
+    { name: "Lunges", equipment: "bodyweight", description: "..." },
+    { name: "Lunges", equipment: "dumbbell", description: "..." },
+    { name: "Lunges", equipment: "bodyweight", description: "..." },
+    { name: "Dumbbell Lunges", equipment: "bodyweight", description: "..." },
+    { name: "Barbell Lunges", equipment: "barbell", description: "..." },
+    { name: "Deadlifts", equipment: "dumbbell", description: "..." },
+    { name: "Deadlifts", equipment: "barbell", description: "..." },
+  ],
+  back: [
+    { name: "Pull-ups", equipment: "bodyweight", description: "..." },
+    { name: "Bent Over Rows", equipment: "dumbbell", description: "..." },
+    { name: "Bent Over Rows", equipment: "barbell", description: "..." },
+  ],
+  chest: [
+    { name: "Bench Press", equipment: "barbell", description: "..." },
+    { name: "Bench Press", equipment: "dumbbell", description: "..." },
+    { name: "Chest Fly", equipment: "dumbbell", description: "..." },
+    { name: "Push Up", equipment: "bodyweight", description: "..." },
+  ],
+  Abs: [
+    { name: "Leg Raise", equipment: "bodyweight", description: "..." },
+    { name: "Crunch", equipment: "bodyweight", description: "..." },
+    { name: "Crunch", equipment: "dumbbell", description: "..." },
+    { name: "Crunch", equipment: "dumbbell", description: "..." },
+    { name: "Sit Up", equipment: "bodyweight", description: "..." },
+    { name: "Plank", equipment: "bodyweight", description: "..." },
+    { name: "Bicycle", equipment: "bodyweight", description: "..." },
+    { name: "Barbell Rollouts", equipment: "barbell", description: "..." },
+    { name: "Russian Twist", equipment: "bodyweight", description: "..." },
+    { name: "Mountain Climbers", equipment: "bodyweight", description: "..." },
+    { name: "Reverse Tuck", equipment: "bodyweight", description: "..." },
+  ],
+};
